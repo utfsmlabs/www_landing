@@ -15,9 +15,6 @@ header h1, header h2, header h3, header h4, header h5, header h6 {
     margin-top: 20px
   }
 }
-h1 em, h2 em, h3 em, h4 em, h5 em, h6 em {
-  font-family: 'Dancing Script', cursive;
-}
 .links {
   background: #eee;
   border: 1px solid transparent;
@@ -32,3 +29,4 @@ h1 em, h2 em, h3 em, h4 em, h5 em, h6 em {
   padding-top: 30px;
   padding-bottom: 30px;
 }
+
